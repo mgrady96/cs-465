@@ -50,4 +50,4 @@ process.on('SIGTERM', () => {
 });
 
 
-require('./Trips');
+require('./models/travlr');
