@@ -17,10 +17,22 @@
     "mongoose": "~5.9.2",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.20",
+    "request": "^2.88.2",
     "seedgoose": "^2.0.2"
   },
   "devDependencies": {
     "hbs": "^4.2.0",
     "seedgoose": "^2.0.2"
-    }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgrady96/cs-465.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrady96/cs-465/issues"
+  },
+  "homepage": "https://github.com/mgrady96/cs-465#readme"
 }
